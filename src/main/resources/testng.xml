@@ -2,7 +2,7 @@
 <suite name="API Suite">
     <test name="Bitcoin API Test">
         <classes>
-            <class name="com.qa.coindesk.tests.BitcoinPriceAPITest"/>
+            <class name="com.qa.coindesk.tests.BitcoinPriceAPITest"/> //Running the Test class
         </classes>
     </test>
 </suite>

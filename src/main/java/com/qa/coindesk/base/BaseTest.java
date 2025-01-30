@@ -9,6 +9,6 @@ public class BaseTest {
 	// Method to perform GET request 
 	public Response sendGetRequest()
 	{ 
-		return RestAssured.get(BASE_URL); // }
+		return RestAssured.get(BASE_URL);
 	}
 }
